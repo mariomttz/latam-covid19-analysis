@@ -1,2 +1,9 @@
+# Environment
 Pipfile
 Pipfile.lock
+
+# Datasets
+data/argentina/*.csv
+data/colombia/*.csv
+data/mexico/*.csv
+data/peru/*.csv
