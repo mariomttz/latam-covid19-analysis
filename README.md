@@ -50,8 +50,8 @@ pip install -r requirements.txt
 ├── LICENSE.md
 └── README.md
 ```
-<h2>4. Development Status</h2>
+<h2>3. Development Status</h2>
 This project is currently in <b>development</b>.
 
-<h2>5. License</h2>
-This repository is under the MIT license. See the **[LICENSE](https://github.com/mariomttz/latam-covid19-analysis?tab=MIT-1-ov-file)** file for details.
+<h2>4. License</h2>
+This repository is under the MIT license. See the <b><a href="https://github.com/mariomttz/latam-covid19-analysis?tab=MIT-1-ov-file">LICENSE</a></b> file for details.
